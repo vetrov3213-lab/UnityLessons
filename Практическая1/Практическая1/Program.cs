@@ -1,4 +1,6 @@
-﻿namespace Практическая1
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Практическая1
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         
         static void Main(string[] args)
         {
-           
+          
         }
     }
     public class Inventory
@@ -47,4 +49,12 @@
             Weight = weight;
         }
     }
+
+
+  
+
+
+
+
+
 }
