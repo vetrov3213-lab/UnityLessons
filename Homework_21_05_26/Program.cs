@@ -86,6 +86,8 @@ namespace Homework_21_05_26
 
             Console.WriteLine(converter.IntToRoman(3954)); // Выведет: MMMCMLIV
             Console.WriteLine(converter.IntToRoman(3075)); // Выведет: MMMLXXV
+
+            //можешь также проверить на других числах от 1 до 3999
         }
     }
 }
